@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+  .input {
+    @apply border-b outline-none w-72 bg-slate-50 rounded-2xl p-2
+  }
+}
