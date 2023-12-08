@@ -1,12 +1,13 @@
 import Chat from "./Chat";
 
 const Chats = () => {
-  return;
-  <div>
-    <div className="p-5 m-5">
-      <Chat />
+  return (
+    <div>
+      <div>
+        <Chat />
+      </div>
     </div>
-  </div>;
+  );
 };
 
 export default Chats;
