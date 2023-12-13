@@ -2,7 +2,7 @@ import Home from "./pages/Home";
 
 function App() {
   return (
-    <div className="">
+    <div className="bg-slate-100">
       <Home />
     </div>
   );
