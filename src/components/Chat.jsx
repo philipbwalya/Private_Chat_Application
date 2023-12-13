@@ -4,7 +4,7 @@ import Messages from "./Messages";
 
 const Chat = () => {
   return (
-    <div className="mt-14">
+    <div className="mt-14 overflow-scroll">
       <div className="mb-20">
         <Messages />
         <Messages />

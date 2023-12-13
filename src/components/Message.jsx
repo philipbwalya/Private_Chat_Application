@@ -12,7 +12,7 @@ const Messages = () => {
       </div>
       <div className="mx-5">
         <p className="px-3 py-2 bg-slate-300 rounded-t-lg rounded-br-lg block w-72 sm:w-96 break-words">
-          hellotherehellotherehellotherehellotherehellotherehelloellotherehellotherehellotherehellotherehellotherehellohellotherehellotherehellotherehellotherehellotherehello
+          hellotherehellotherehellotherehellotherehellotherehelloellotherehellotherehellotherehellotherehellotherehellohellotherehellotherehellotherehellotherehellotherehe
         </p>
         {/* <img src={img} alt="img" className="w-[50%] rounded-lg" /> */}
         <span className="text-xs text-gray-500">just now</span>
